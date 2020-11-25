@@ -1,0 +1,12 @@
+/Users/staniya/PycharmProjects/texture-synthesis/target/release/deps/bytemuck-bb02d0e2ca397eef.rmeta: /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/lib.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/zeroable.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/pod.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/contiguous.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/offset_of.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/transparent.rs
+
+/Users/staniya/PycharmProjects/texture-synthesis/target/release/deps/libbytemuck-bb02d0e2ca397eef.rlib: /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/lib.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/zeroable.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/pod.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/contiguous.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/offset_of.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/transparent.rs
+
+/Users/staniya/PycharmProjects/texture-synthesis/target/release/deps/bytemuck-bb02d0e2ca397eef.d: /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/lib.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/zeroable.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/pod.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/contiguous.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/offset_of.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/transparent.rs
+
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/lib.rs:
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/zeroable.rs:
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/pod.rs:
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/contiguous.rs:
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/offset_of.rs:
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.4.1/src/transparent.rs:

@@ -1,0 +1,13 @@
+/Users/staniya/PycharmProjects/texture-synthesis/target/rls/debug/deps/png-f9d57a98ddeff9ee.rmeta: /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/lib.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/chunk.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/common.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/decoder/mod.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/decoder/stream.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/encoder.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/filter.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/traits.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/utils.rs
+
+/Users/staniya/PycharmProjects/texture-synthesis/target/rls/debug/deps/png-f9d57a98ddeff9ee.d: /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/lib.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/chunk.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/common.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/decoder/mod.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/decoder/stream.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/encoder.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/filter.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/traits.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/utils.rs
+
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/lib.rs:
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/chunk.rs:
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/common.rs:
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/decoder/mod.rs:
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/decoder/stream.rs:
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/encoder.rs:
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/filter.rs:
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/traits.rs:
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.16.3/src/utils.rs:

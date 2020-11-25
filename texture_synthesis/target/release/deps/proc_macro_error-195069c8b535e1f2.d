@@ -1,0 +1,11 @@
+/Users/staniya/PycharmProjects/texture-synthesis/target/release/deps/proc_macro_error-195069c8b535e1f2.rmeta: /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/lib.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/dummy.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/diagnostic.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/macros.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/imp/fallback.rs
+
+/Users/staniya/PycharmProjects/texture-synthesis/target/release/deps/libproc_macro_error-195069c8b535e1f2.rlib: /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/lib.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/dummy.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/diagnostic.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/macros.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/imp/fallback.rs
+
+/Users/staniya/PycharmProjects/texture-synthesis/target/release/deps/proc_macro_error-195069c8b535e1f2.d: /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/lib.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/dummy.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/diagnostic.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/macros.rs /Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/imp/fallback.rs
+
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/lib.rs:
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/dummy.rs:
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/diagnostic.rs:
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/macros.rs:
+/Users/staniya/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.2/src/imp/fallback.rs:
